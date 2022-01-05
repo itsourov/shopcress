@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "284941947382",
+    "firebase_url": "https://readonly-360-default-rtdb.firebaseio.com",
+    "project_id": "readonly-360",
+    "storage_bucket": "readonly-360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284941947382:android:4e1db29a1a1d4e1993b7d7",
+        "android_client_info": {
+          "package_name": "com.platinumfashioner.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284941947382-t2uj2blkui48bok63vk289b1f61nrm9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_f4U5sfvJwkxshJgIwe8pfA0epomOvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284941947382-t2uj2blkui48bok63vk289b1f61nrm9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284941947382:android:c08426065233805293b7d7",
+        "android_client_info": {
+          "package_name": "com.shopcress.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284941947382-t2uj2blkui48bok63vk289b1f61nrm9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_f4U5sfvJwkxshJgIwe8pfA0epomOvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284941947382-t2uj2blkui48bok63vk289b1f61nrm9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284941947382:android:cb8a90dc1750dc8493b7d7",
+        "android_client_info": {
+          "package_name": "net.sourov.airtelmboffer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284941947382-t2uj2blkui48bok63vk289b1f61nrm9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_f4U5sfvJwkxshJgIwe8pfA0epomOvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284941947382-t2uj2blkui48bok63vk289b1f61nrm9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284941947382:android:994e2938d8422a7a93b7d7",
+        "android_client_info": {
+          "package_name": "net.sourov.readonlyadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284941947382-t2uj2blkui48bok63vk289b1f61nrm9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_f4U5sfvJwkxshJgIwe8pfA0epomOvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284941947382-t2uj2blkui48bok63vk289b1f61nrm9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
