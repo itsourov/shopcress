@@ -87,9 +87,10 @@ public class MainActivity extends AppCompatActivity {
             errorView.setVisibility(View.GONE);
         });
 
-        showAdsa();
 
         FirebaseMessaging.getInstance().subscribeToTopic("shopcress.com");
+
+
     }
 
     AdView mAdView;
@@ -156,6 +157,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //aikhan theke suru
+
+
     protected void onStart() {
         super.onStart();
         if (scheduler == null) {
@@ -181,6 +185,15 @@ public class MainActivity extends AppCompatActivity {
         scheduler.shutdownNow();
         scheduler = null;
     }
+
+
+
+
+    //aiporjonto
+
+
+
+
 
     @Override
     public void onBackPressed() {
@@ -311,6 +324,8 @@ public class MainActivity extends AppCompatActivity {
         webView.getSettings().setPluginState(WebSettings.PluginState.ON);
 
 
+        //dark more er code
+
         if (WebViewFeature.isFeatureSupported(WebViewFeature.FORCE_DARK)) {
             switch (getResources().getConfiguration().uiMode & Configuration.UI_MODE_NIGHT_MASK) {
                 case Configuration.UI_MODE_NIGHT_YES:
@@ -322,6 +337,8 @@ public class MainActivity extends AppCompatActivity {
                     break;
             }
         }
+
+        //dark more er code
 
 
     }

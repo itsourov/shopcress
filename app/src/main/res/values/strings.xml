@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Shopcress</string>
-    <string name="admobAppId">ca-app-pub-3940256099942544~334751171</string>
     <string name="interstialAdsId">ca-app-pub-3940256099942544/1033173712</string>
     <string name="bannerAdId">ca-app-pub-3940256099942544/6300978111</string>
 </resources>
